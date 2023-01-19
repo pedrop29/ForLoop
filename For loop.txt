@@ -1,0 +1,5 @@
+c = [1,2,3,5,4]
+x = 0
+for item in c:
+    x = sum(c)
+print(f"Total: {x}")
